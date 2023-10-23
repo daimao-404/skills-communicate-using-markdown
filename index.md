@@ -1,8 +1,8 @@
-# 这是 `<h1>` header，一级标题,
+# This is `<h1>` header，First-level heading,
 
-## 这是 `<h2>` header, 二级标题
+## This is `<h2>` header, Second-level headings
 
-###### 这是 `<h6>` header, 最小的标题
+###### This is `<h6>` header, Minimal-level headings
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
